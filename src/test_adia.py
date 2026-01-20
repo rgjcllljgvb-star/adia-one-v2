@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """ADIA One v2.0 Enterprise Test"""
+
 import sys
 from pathlib import Path
 
